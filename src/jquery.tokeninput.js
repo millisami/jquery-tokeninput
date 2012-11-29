@@ -430,7 +430,7 @@ $.TokenList = function (input, url_or_data, settings) {
             position: "absolute",
             top: -9999,
             left: -9999,
-            width: "auto",
+            width: "400px",
             fontSize: input_box.css("fontSize"),
             fontFamily: input_box.css("fontFamily"),
             fontWeight: input_box.css("fontWeight"),
